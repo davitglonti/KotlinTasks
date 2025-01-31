@@ -1,3 +1,5 @@
+package algorithms
+
 // AddBinary.kt
 fun addBinary(a: String, b: String): String {
     var i = a.length - 1

@@ -1,3 +1,5 @@
+package algorithms
+
 // LongestPrefix.kt
 fun longestPrefix(array: Array<String>): String {
     if (array.isEmpty()) return ""

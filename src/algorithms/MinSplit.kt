@@ -1,3 +1,5 @@
+package algorithms
+
 // MinSplit.kt
 fun minSplit(amount: Int): Int {
     val coins = intArrayOf(50, 20, 10, 5, 1)

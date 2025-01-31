@@ -1,3 +1,5 @@
+package algorithms
+
 // CountVariants.kt
 fun countVariants(stearsCount: Int): Int {
     if (stearsCount == 0) return 0

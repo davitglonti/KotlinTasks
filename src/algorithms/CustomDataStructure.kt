@@ -1,4 +1,6 @@
-// CustomDataStructure.kt
+package algorithms
+
+// algorithms.CustomDataStructure.kt
 class CustomDataStructure {
     private val list = ArrayList<Int>()
     private val map = HashMap<Int, Int>()
